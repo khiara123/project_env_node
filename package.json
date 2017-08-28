@@ -1,0 +1,19 @@
+{
+  "name": "javascript-startkit",
+  "version": "1.0.0",
+  "description": "setup project for node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khiara123/project_env_node.git"
+  },
+  "author": "ankit khaira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khiara123/project_env_node/issues"
+  },
+  "homepage": "https://github.com/khiara123/project_env_node#readme"
+}
